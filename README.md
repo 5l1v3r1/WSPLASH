@@ -1,6 +1,6 @@
 # WSPLASH
 
-### A Login Theme Especially Created For Gentoo Linux
+### A Login Theme Especially Created For Gentoo Linux, over 1.000 downloads from https://store.kde.org/p/1295946/!
 
 ![Screenshot](.preview/Preview.png)
 
